@@ -19,23 +19,29 @@ This project aims to practice the Robot Framework and Automation tests.
 # Getting Started
 
 ## Prerequisites  
-*TBD
+
+* TBD
 
 ## Installation 
-*TBD
+
+* TBD
 
 # Usage
 
 ## Run the tests 
+
 Use the commandline to run the test from Terminal 
 >robot -d Results Test/crmTests.robot
 
 
 # Roadmap 
-*TBD
+
+* TBD
 
 # Contributing 
-*TBD
+
+* TBD
 
 # Contacts 
+
 * dailv.cntt@gmail.com

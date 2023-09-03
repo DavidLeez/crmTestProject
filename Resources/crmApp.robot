@@ -11,8 +11,10 @@ Homepage Is Loaded
 	LandingPage.Verify Page Loaded
 
 Login To Account
-	Login.Login
+	Login.Login Success
 
+Fail Login To Account
+	Login.Login Fail
 
 #Top Navigation Bar
 	#Do something on top navigation bar
