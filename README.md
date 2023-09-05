@@ -33,6 +33,8 @@ This project aims to practice the Robot Framework and Automation tests.
 Use the commandline to run the test from Terminal 
 >robot -d Results Test/crmTests.robot
 
+Run the test case with specific tag:
+>robot --include id_1003 -d Results Tests/crmTests.robot 
 
 # Roadmap 
 

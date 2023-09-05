@@ -4,7 +4,7 @@ Library    SeleniumLibrary
 *** Keywords ***
 Load
 	#open the browser
-	Open Browser       about:blank  chrome
+	#Open Browser       about:blank  chrome
 
     #Start testing
     #Log         starting the test case

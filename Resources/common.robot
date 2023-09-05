@@ -10,7 +10,7 @@ End Web Test
 
 #sample - do not use from this line ----
 Insert Testing Data
-	Custom Keyword 1ª
+	Custom Keyword 1
 	Custom Keyword 2
 
 Cleanup Testing Data

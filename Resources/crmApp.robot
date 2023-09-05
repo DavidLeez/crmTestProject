@@ -1,9 +1,9 @@
 *** Settings ***
 #Library     SeleniumLibrary
-Resource        ../Resources/PO/LandingPage.robot
-Resource        ../Resources/PO/Login.robot
-Resource        ../Resources/PO/TopNav.robot
-Resource        ../Resources/PO/CustomerPage.robot
+Resource        ../Resources/PO/landingPage.robot
+Resource        ../Resources/PO/login.robot
+Resource        ../Resources/PO/topNav.robot
+Resource        ../Resources/PO/customerPage.robot
 
 *** Keywords ***
 Homepage Is Loaded
